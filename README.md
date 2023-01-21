@@ -2,7 +2,7 @@
 <p><a href="https://arxiv.org/abs/2102.10590">Efficient Two-Stream Network for Violence Detection Using Separable Convolutional LSTM</a>
 </h1>
 <h6 align="center">
-<p> <a href="https://github.com/Zedd1558">Zahidul Islam</a>, Mohammad Rukonuzzaman, Raiyan Ahmed, Md. Hasanul Kabir, Moshiur Farazi
+<p>Zahidul Islam, Mohammad Rukonuzzaman, <a href="https://github.com/notraiyan">Raiyan Ahmed</a>, Md. Hasanul Kabir, Moshiur Farazi
 </h3>
 <!---
 <p align="center">
